@@ -36,4 +36,4 @@ Run each night at 2am:
 
 Steps towards reversing the Autopilot API are documented in the following blog post:
 
-[https://blog.ntdelta.dev/2025-02-21-osee-exam-review/2025-03-06-autopilot/](https://blog.ntdelta.dev/2025-02-21-osee-exam-review/2025-03-06-autopilot/)
+[https://blog.ntdelta.dev/2025-03-06-autopilot/](https://blog.ntdelta.dev/2025-03-06-autopilot/)
